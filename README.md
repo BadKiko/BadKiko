@@ -7,9 +7,9 @@
 </div>
 
 <h1 align="center">
- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/random/berry-spin.gif" width="32" height="32">
+ <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32">
  GitHub States </a> 
-<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/random/berry-spin.gif" width="32" height="32"></h1>
+<img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/bulba-roll.gif" width="32" height="32"></h1>
 
 [![Kiko GitHub stats](https://github-readme-stats.vercel.app/api?username=badkiko&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Kiko wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kiko&layout=compact&hide_border=true&border_radius=16&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
