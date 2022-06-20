@@ -45,7 +45,7 @@
     align-items: left;
     justify-content: left;
     position:absolute;
-left: 6%;
+left: 3%;
     top: 55%;
     height: 160px;
     overflow: hidden;
