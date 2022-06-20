@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
  <br>
-  <img src="header.svg" width="1000" height="300" alt="This is Kiko!">
+  <img src="header.svg" width="100%" height="200" alt="This is Kiko!">
  <br>
 </div>
 
