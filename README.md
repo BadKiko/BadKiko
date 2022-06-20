@@ -4,7 +4,7 @@
 
 <div style="float: left;">
  <br>
-  <img src="standartheader" alt="This is Kiko!">
+  <img src="standartheader.svg" alt="This is Kiko!">
  <br>
 </div>
 
