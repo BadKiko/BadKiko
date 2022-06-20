@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1400 400" width="1400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1500 400" width="1500" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -26,9 +26,7 @@
     border-radius: 20px;
     color: white;
     text-align: left;
-
 }
-
 .rowcontainer {
     position:absolute;
     top: 10%;
@@ -57,38 +55,28 @@ left: 6%;
     color: #ecf0f1;
 				text-align: left;
 }
-
-
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
     }
-
     50% {
         background-position: 100% 50%;
     }
-
     100% {
         background-position: 0% 50%;
     }
 }
-
-
-
-
 .content__container {
     font-weight: 50px;
     overflow: hidden;
     height: 50px;
     padding: 0 50px;
 }
-
 .content__container__text {
     display: inline;
     float: left;
     margin: 0;
 }
-
 .content__container__list {
     margin-top: 0;
     padding-left: 0px;
@@ -101,73 +89,55 @@ left: 6%;
     animation-duration: 10s;
     animation-iteration-count: infinite;
 }
-
 .content__container__list__item {
     line-height: 50px;
     margin: 0;
 }
-
 @-webkit-keyframes opacity {
-
     0%,
     100% {
         opacity: 0;
     }
-
     50% {
         opacity: 1;
     }
 }
-
 @keyframes opacity {
-
     0%,
     100% {
         opacity: 0;
     }
-
     50% {
         opacity: 1;
     }
 }
-
 @keyframes change {
-
     0%,
     12.66%,
     100% {
         transform: translate3d(0, 0, 0);
     }
-
     16.66%,
     29.32% {
         transform: translate3d(0, -25%, 0);
     }
-
     33.32%,
     45.98% {
         transform: translate3d(0, -50%, 0);
     }
-
     49.98%,
     62.64% {
         transform: translate3d(0, -75%, 0);
     }
-
     66.64%,
     79.3% {
         transform: translate3d(0, -50%, 0);
     }
-
     83.3%,
     95.96% {
         transform: translate3d(0, -25%, 0);
     }
 }
-
-
-
-
 h1 {
     font-size: 50px;
     color: #efefef;
@@ -175,7 +145,6 @@ h1 {
     font-weight: 400;
     line-height: 20%;
 }
-
 p {
     font-size: 80px;
     color: #3da47a;
@@ -184,7 +153,7 @@ p {
     line-height: 20%;
 }
 </style>
-			
+
 <div class="container">
     <div class="rowcontainer">
         <div class="content__container">
@@ -212,5 +181,5 @@ p {
         </p>
     </div>
 </div>
-				
+
 </div></foreignObject></svg>
