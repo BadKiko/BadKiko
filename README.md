@@ -24,7 +24,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=Tsunami-Fi&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/Tsunami-Fi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=NoisePower&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/NoisePower)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadKiko&repo=kige&hide_border=true&border_radius=16&theme=vue-dark)](https://github.com/BadKiko/kige)
 
 
 <h1 align="center">
